@@ -406,7 +406,7 @@ Available for:
 The  `@sap/cds-rfc` plugin allows to import the API of RFC-enabled function modules from
 ABAP systems and to call these functions in your custom code.
 
-Available for:
+Available for: 
 
 [![Node.js](../assets/logos/nodejs.svg 'Link to the plugin page.'){style="height:2.5em; display:inline; margin:0 0.2em;"}](https://www.npmjs.com/package/@sap/cds-rfc)
 
